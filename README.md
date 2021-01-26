@@ -1,2 +1,19 @@
-# AI_Work
-This is a folder for my artificial intelligence work.
+# **Artificial Intelligence**
+This work was done for SFSU's Artificial Intelligance course.
+
+# Folders
+1. Unix/Python Tutorial - [ ]
+
+- [ ] A mini-UNIX tutorial
+- [ ] Instructions on how to set up the right Python version
+- [ ] A mini-Python tutorial,
+- [ ] Project grading: autograder
+2. Search - [ ]
+
+3. Multi-Agent Search - [ ]
+
+4. MDP and Reinforcement Learning - [ ]
+
+5. Probability and Bayes Net - [ ]
+
+6. Machine Learning - [ ]
