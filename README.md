@@ -1,5 +1,5 @@
 # **Artificial Intelligence**
-This work was done for SFSU's Artificial Intelligance course.
+This work was done for SFSU's Artificial Intelligance course by Miguel Mellado [1.1]: http://i.imgur.com/tXSoThF.png.
 
 # Folders
 ### 1. Unix/Python Tutorial
