@@ -2,14 +2,14 @@
 This work was done for SFSU's Artificial Intelligance course.
 
 # Folders
-## 1. Unix/Python Tutorial
+### 1. Unix/Python Tutorial
 
 - [ ] A mini-UNIX tutorial
 - [ ] Instructions on how to set up the right Python version
 - [ ] A mini-Python tutorial,
 - [ ] Project grading: autograder
 
-### 2. Search - [ ]
+### 2. Search
 
 ### 3. Multi-Agent Search
 
