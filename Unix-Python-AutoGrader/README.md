@@ -1,4 +1,4 @@
-# **Artificial Intelligence**
+# **Python Basics**
 The Pacman AI projects were developed at UC Berkeley. The core projects and autograders were primarily created by John DeNero and Dan Klein. Student side autograding was added by Brad Miller, Nick Hay, and Pieter Abbeel. We thank them for their permission to use it as a part of this course.
 
 # /tutorial
