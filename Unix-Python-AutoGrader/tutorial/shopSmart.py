@@ -30,7 +30,22 @@ def shopSmart(orderList, fruitShops):
         fruitShops: List of FruitShops
     """
     "*** YOUR CODE HERE ***"
-    return None
+    # dictionary storing [total : shop] so we can access by price
+    priceShop = {}
+    # array of totals we can sort and get min
+    prices = []
+    # for every shop
+    for shop in fruitShops:
+        # get the price of the order 
+        price = shop.getPriceOfOrder(orderList)
+        # store the price in an array
+        prices.append(price)
+        # attribute that price to the shop it corresponds to
+        priceShop[str(price)] = shop
+    # sort the array
+    prices.sort()
+            # return the first value in the array being the min value
+    return priceShop[str(prices[0])]
 
 
 if __name__ == '__main__':

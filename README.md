@@ -4,10 +4,10 @@ This work was done for SFSU's Artificial Intelligance course by Miguel [![alt te
 # Folders
 ### 1. Unix/Python Tutorial
 
-- [ ] A mini-UNIX tutorial
-- [ ] Instructions on how to set up the right Python version
-- [ ] A mini-Python tutorial,
-- [ ] Project grading: autograder
+- [x] A mini-UNIX tutorial
+- [x] Instructions on how to set up the right Python version
+- [x] A mini-Python tutorial,
+- [x] Project grading: autograder
 
 ### 2. Search
 

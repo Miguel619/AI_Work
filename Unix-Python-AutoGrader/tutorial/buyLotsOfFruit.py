@@ -36,6 +36,13 @@ def buyLotsOfFruit(orderList):
     """
     totalCost = 0.0
     "*** YOUR CODE HERE ***"
+    #Iterate through list
+    for item in orderList:
+        # store cost per pound
+        cost = fruitPrices[item[0]]
+        # multiple cost per pound by pounds ordered and add to total cost
+        totalCost += cost * item[1]
+    
     return totalCost
 
 
