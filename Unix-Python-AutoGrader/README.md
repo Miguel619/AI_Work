@@ -5,11 +5,15 @@ The Pacman AI projects were developed at UC Berkeley. The core projects and auto
 The following files were workeded on.
 - [x] Addition : returns a + b
 
-- [x] BuyLotsOfFruit : multiply the cost of each item in order by pounds ordered
+- [x] BuyLotsOfFruit : Add a buyLotsOfFruit(orderList) function to buyLotsOfFruit.py which takes a list of (fruit,pound) tuples and returns the cost of your list.
+
+`Multiply the cost of each item in order by pounds ordered`
 
 - [x] shopSmart : Fill in the function shopSmart(orders,shops) in shopSmart.py, which takes an orderList (like the kind passed in to FruitShop.getPriceOfOrder) and a list of FruitShop and returns the FruitShop where your order costs the least amount in total.
+
 `Store the shops in a dictionary indexed by the total.`
 
+# All Test Passed
 ![Image of Passed Test](https://cdn.discordapp.com/attachments/755646618203848755/803789803908366416/unknown.png)
 
 
